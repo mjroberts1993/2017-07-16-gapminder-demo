@@ -2,3 +2,5 @@
 Demo repository for learning git with gapminder data
 
 Code from a Software Carpentry workshop held at UCSF on July 15 and 16, 2017
+
+we also can add text from our local machines.
